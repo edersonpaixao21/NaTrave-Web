@@ -8,7 +8,7 @@ Na Trave
 
 </br>
 
-O projeto tem como objetivo para dar palpites da Copa do Mundo do Catar 2022, desenvolvida na Full Stack Challenge da Codar.me.
+O projeto tem como objetivo para dar palpites da Copa do Mundo do Catar 2022, desenvolvida na Full Stack Challenge da Codar.me
 
 ## Preview
 Interface do usuário.
